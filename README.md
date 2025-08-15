@@ -1,4 +1,3 @@
-<!-- 網頁 icon -->
 <link rel="icon" href="./assets/images/favicon-16x16.ico">
 # MINGK12-TJM 2025
 ### 2025-08-09 [國小學生行為觀察與建議（可匯出 PDF / ODT）](../behavior_report.html) Source From [James Lua](https://www.facebook.com/james.lua.1)
