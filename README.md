@@ -1,3 +1,7 @@
+<head>
+<!-- 網頁 icon -->
+<link rel="icon" href="./assets/images/favicon-16x16.ico">
+</head>
 # MINGK12-TJM 2025
 ### 2025-08-09 [國小學生行為觀察與建議（可匯出 PDF / ODT）](../behavior_report.html) Source From [James Lua](https://www.facebook.com/james.lua.1)
 ### 2025-08-13 [🚀 以 AI Agent 做好自動化日曆管理~~](https://liang-calendar.netlify.app/) Source From [曾亮](https://www.facebook.com/iddmail)
